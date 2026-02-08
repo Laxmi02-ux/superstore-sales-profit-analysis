@@ -9,4 +9,4 @@ Key tasks performed:
 - Data cleaning and exploratory data analysis
 - Power BI dashboard for business insights
 
-Tools Used: Python, Pandas, SQL (SQLite), Power BI
+Tools Used: Python, Pandas,Matplotlib, SQL (SQLite), Power BI
